@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Al Noman",
+        "age": 25,
+        "email": "alnoman@gmail.com",
+        "isEmployed": false
+    },
+    {
+        "id": "2",
+        "name": "Hasan",
+        "age": 30,
+        "email": "hasan@gmail.com",
+        "isEmployed": true
+    },
+    {
+        "id": "3",
+        "name": "Rakib",
+        "age": 22,
+        "email": "rakib334@gmail.com",
+        "isEmployed": false
+    },
+    {
+        "id": "4",
+        "name": "Shimul Khan",
+        "age": 40,
+        "email": "shimpul@gmail.com",
+        "isEmployed": true
+    }
+]
