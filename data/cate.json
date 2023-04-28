@@ -1,30 +1,34 @@
 [
     {
+        "id": "0",
+        "name": "All News"
+    },
+    {
         "id": "1",
-        "name": "Al Noman",
-        "age": 25,
-        "email": "alnoman@gmail.com",
-        "isEmployed": false
+        "name": "Breaking News"
     },
     {
         "id": "2",
-        "name": "Hasan",
-        "age": 30,
-        "email": "hasan@gmail.com",
-        "isEmployed": true
+        "name": "Regular News"
     },
     {
         "id": "3",
-        "name": "Rakib",
-        "age": 22,
-        "email": "rakib334@gmail.com",
-        "isEmployed": false
+        "name": "International News"
     },
     {
         "id": "4",
-        "name": "Shimul Khan",
-        "age": 40,
-        "email": "shimpul@gmail.com",
-        "isEmployed": true
+        "name": "Sports"
+    },
+    {
+        "id": "5",
+        "name": "Entertainment"
+    },
+    {
+        "id": "6",
+        "name": "Culture"
+    },
+    {
+        "id": "7",
+        "name": "Arts"
     }
 ]
